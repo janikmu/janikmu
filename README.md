@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a PhD student at the Chair of Information Systems for Sustainable Society, University of Cologne 🎓 
+
+My research interest is on smart sustainable mobility and I use a mix of data and tools to gather insights of how urban mobility currently looks like and simulate what it might look like in the near future 🧩👨‍💻
+
 <!--
 **janikmu/janikmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
